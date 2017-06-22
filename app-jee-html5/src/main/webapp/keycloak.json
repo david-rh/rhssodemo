@@ -1,8 +1,0 @@
-{
-  "realm": "SSODemoRealm",
-  "realm-public-key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAnoHMYdVPAynfQjOar7pHGDjdvsI6p4XY+z6WQ47BmcrF4GR00uhuhw6ii9VBvhBFfgMwlgCcWC7S/k59jmO4GE8WLWXoZ0zT/XrLn7JgDaIgYA5kkRk+TS/k7/3+wl9o10jeemxlkhD7DBYvHihAvPVUkvxXmOh6AUj2l1YFF7bNnTEAaUm2mcv1WGUBM4yAz7y2hSp+VTVBzRomEkhxSgRaWJQryCM9NJCaxmt4cNHQXROFhn4h79cWAGamEbUPyc9Mn1opOvvvRWp845lnAb0il6L4oHAw7IyMSFf02BV8GeskDuP85cDeBR4eUk9TdaBeNXl8z0pPkT5SILok6QIDAQAB",
-  "auth-server-url": "http://localhost:8180/auth",
-  "ssl-required": "external",
-  "resource": "app-html5",
-  "public-client": true
-}
