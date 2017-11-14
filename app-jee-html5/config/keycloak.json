@@ -1,0 +1,7 @@
+{
+  "realm": "EAP-SSO",
+  "auth-server-url": "https://secure-sso.apps.rhsledcloud.net/auth",
+  "ssl-required": "external",
+  "resource": "app-html5",
+  "public-client": true
+}
