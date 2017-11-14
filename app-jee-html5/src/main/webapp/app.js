@@ -15,7 +15,7 @@
  * limitations under the License.
  */
 var keycloak = new Keycloak();
-var serviceUrl = 'http://eap-svc.apps.rhsledcloud.net/service'
+var serviceUrl = 'https://eap-secure-svc.apps.rhsledcloud.net/service'
 
 function notAuthenticated() {
     document.getElementById('not-authenticated').style.display = 'block';
